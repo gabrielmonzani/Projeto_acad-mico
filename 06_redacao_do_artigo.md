@@ -25,33 +25,46 @@ Diante disso, o problema que orienta a revisão é: como a IA pode impactar os e
 
 `Este trabalho é uma revisão narrativa, de abordagem qualitativa, feito em 05 de outubro de 2026. A busca foi realizada por meio de materiais jornalísticos e de um documento americano [HUI, Xiang; RESHEF, Oren; ZHOU, Luofeng]. The short-term effects of generative artificial intelligence on employment: evidence from an online labor market. Organization Science, v. 35, p. 1977-1989, 2024.
 Os critérios foi de inclusão foram: relação direta entre IA e trabalho; e ligação com ao menos um dos objetivos específicos do estudo. Foram deixados de fora textos de opinião e trabalhos que não tratavam do efeito da IA sobre o trabalhador.
-Da triagem ficaram três estudos, todos de 2024:`
+Da triagem ficaram três estudos, todos de 2024: um artigo sobre emprego de freelancers (no documento relacionado acima), um documento de trabalho do Banco de Compensações Internacionais sobre desigualdade e uma revisão sistemática sobre bem-estar dos funcionários (Soulami; Benchekroun; Galiulina, 2024). Cada texto foi lido e registrado em uma ficha de leitura com método, resultados e limitações. Depois o estudos foram equiparados em uma síntese organizada em três eixos: substituição de trabalho, desigualdade e saúde mental com boa práticas.`
 
 ## Revisão da literatura
 
 ### `[Eixo 1]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[Uma das primeiras evidências concretas de que a IA generativa pode tirar espaço de trabalhadores vem do estudo de Hui, Reshef e Zhou (2024). Os autores acompanharam freelancers da plataforma Upwork depois do lançamento de ferramentas como ChatGPT. O resultado foi em ocupações mais expostas a essas ferramentas teve queda no emprego e na renda. Há ainda indícios de que os freelancers de melhor qualidade foram os mais atingidos, o que quebra a ideia de que só os trabalhadores de menos qualidades correm risco.
+  O estudo de Aldasoro et al. (2024) ajuda a entender por que isso acontece. Ao analisar 711 ocupações nos Estados Unidos, os autores separam o trabalho em habilidades centrais, que definem a função, e habilidades periféricas, que apoiam o trabalho principal. Quando a IA assume apenas as habilidades periféricas, ela funciona como um apoio. Quando consegue executar as centrais, passa a ameaçar a ocupação. 
+  Os dois estudos concordam que a substituição existe, mas usam caminhos diferentes. Hui et al. observam o que de fato aconteceu em um mercado real, ainda que em uma única plataforma e no curto prazo. Aldasoro et al. trabalham com um modelo, que tem alcance maior, mas depende de suposições.]`
 
 ### `[Eixo 2]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[A pergunta da desigualdade é respondida com mais clareza por Aldasoro et al. (2024). Segundo o estudo, as ocupações mais bem remuneradas são as mais expostas à IA: em capacidades altas da tecnologia, até 45% das habilidades do quartil de maior renda estão expostas, contra 26% no quartil de menor renda. Nas ocupações de renda alta, a IA costuma complementar o trabalho, enquanto nas de renda baixa, quando há exposição, ela pode executar as habilidades centrais e substituir o trabalhador. O trabalho conclui que a IA tende a ampliar a desigualdade, e não a reduzi-la.
+  O estudo de Hui, Reshef e Zhou (2024) não mede desigualdade de forma direta, mas mostra que o impacto da IA não é distribuído por igual: depende da ocupação e da qualidade do trabalhador. A diferença é que os dois trabalhos discordam sobre quem está mais vulnerável, e essa questão ainda está em aberto na literatura.]`
+
+  ### Eixo 3: Saúde mental, rotina de trabalho e boas práticas
+
+'Nem todo efeito da IA aparece na renda. A revisão de Soulami, Benchekroun e Galiulina (2024) reúne 92 artigos na análise bibliométrica e 25 na análise sistemática, e mostra que os estudos sobre IA e trabalho se agrupam em torno de quatro temas: ética, autonomia no trabalho, estresse e saúde mental. O balanço é de efeito duplo. De um lado, a IA pode trazer mais flexibilidade, autonomia e eficiência. De outro, pode aumentar o estresse e a sensação de insegurança no emprego.
+  Uma limitação importante é que a revisão incluiu apenas artigos em inglês, e dez dos 25 trabalhos analisados eram revisões, não estudos com dados novos. Os próprios autores também apontam a falta de pesquisas em países fora de Estados Unidos, Ásia e Europa, com pessoas mais velhas, com menor escolaridade e em estudos de longo prazo.'
+
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`[Quando se colocam os três estudos lado a lado, alguns pontos aparecem com clareza. O primeiro é que a IA não afeta todo mundo da mesma forma. Existe substituição em atividades específicas (Hui; Reshef; Zhou, 2024), o risco varia conforme o tipo de habilidade que a IA consegue executar (Aldasoro et al., 2024) e o custo psicológico recai sobre quem convive com a incerteza (Soulami; Benchekroun; Galiulina, 2024).
+  A principal divergência está em quem perde mais. O modelo do Banco de Compensações Internacionais aponta os trabalhadores de renda baixa como os mais ameaçados de substituição, enquanto o estudo com freelancers encontra indícios de perda também entre os de melhor qualidade. Isso pode ter explicação nos métodos: um observa dados reais de uma plataforma, o outro simula o mercado dos Estados Unidos. Também há divergência dentro da revisão sobre bem-estar, que reúne estudos com efeitos positivos e negativos.
+ Falta evidência sobre o Brasil e outros países em desenvolvimento, sobre o emprego formal nas empresas e sobre os efeitos de longo prazo. Além disso, nenhum dos três estudos trata diretamente de vieses algorítmicos nem de precarização profissional, dois pontos que faziam parte do recorte inicial deste trabalho e que ficam como tema para pesquisas futuras.]`
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`[A literatura analisada indica que a automação por IA tende a afetar o emprego de forma desigual: reduz oportunidades nas atividades que consegue substituir, pode ampliar a distância entre trabalhadores de diferentes faixas de renda e traz custos para a saúde mental, principalmente pela insegurança. Ao mesmo tempo, a IA também pode trazer autonomia e eficiência, o que mostra que o resultado não está decidido de antemão e depende da forma como as empresas adotam a tecnologia. Entre os avanços, destacam-se a evidência de que mesmo profissionais qualificados podem ser atingidos, o mecanismo que explica quando a IA complementa e quando substitui, e o conjunto de práticas que reduzem o impacto negativo, como treinamento contínuo, transparência e responsabilização. As limitações deste estudo também precisam ser ditas: foram analisados apenas três artigos, todos de 2024, e parte das informações vem de resumos e de modelos que ainda não foram testados em outros contextos.]`
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`[A rápida adoção da inteligência artificial generativa no mercado de trabalho levanta dúvidas sobre emprego, desigualdade e bem-estar dos trabalhadores. Este artigo teve como objetivo compreender como a automação por IA afeta o cotidiano dos trabalhadores e a desigualdade nas empresas. Trata-se de uma revisão bibliográfica narrativa, com três estudos publicados em 2024, comparados em três eixos: substituição de trabalho, desigualdade, e saúde mental com boas práticas. A rápida adoção da inteligência artificial generativa no mercado de trabalho levanta dúvidas sobre emprego, desigualdade e bem-estar dos trabalhadores. Este artigo teve como objetivo compreender como a automação por IA afeta o cotidiano dos trabalhadores e a desigualdade nas empresas. Trata-se de uma revisão bibliográfica narrativa, com três estudos publicados em 2024, comparados em três eixos: substituição de trabalho, desigualdade, e saúde mental com boas práticas.  Este artigo teve como objetivo compreender como a automação por IA afeta o cotidiano dos trabalhadores e a desigualdade nas empresas. Trata-se de uma revisão bibliográfica narrativa, com três estudos publicados em 2024, comparados em três eixos: substituição de trabalho, desigualdade, e saúde mental com boas práticas., embora também traga ganhos de autonomia e eficiência. Conclui-se que o impacto depende de como a tecnologia é adotada e que há lacunas sobre o Brasil, sobre os efeitos de longo prazo e sobre vieses algorítmicos.]`
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`[ALDASORO, Iñaki et al. **The rise of generative AI: modelling exposure, substitution and inequality effects on the US labour market**. Basel: Bank for International Settlements, 2 set. 2024. (BIS Working Papers, n. 1207). Disponível em: https://www.bis.org/publ/work1207.htm. Acesso em: 5 out. 2026.
+
+HUI, Xiang; RESHEF, Oren; ZHOU, Luofeng. The short-term effects of generative artificial intelligence on employment: evidence from an online labor market. **Organization Science**, v. 35, p. 1977-1989, 2024. Disponível em: https://www.aeaweb.org/conference/2025/program/paper/T485kaTk. Acesso em: 5 out. 2026.]`
 
 ## Checklist
 
