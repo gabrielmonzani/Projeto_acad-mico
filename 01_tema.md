@@ -7,7 +7,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[[Alan Rosa da Silveira Neto, Cauã Silva Godoy, Gabriel Campos Monzani, Gabriel Gomes Ferreira, Matheus Bispo]`
+- Integrantes: `[[Alan Rosa da Silveira Neto, Alan Silva Araújo, Arthur Gomes de Jesus, Cauã Silva Godoy, Gabriel Campos Monzani, Gabriel Gomes Ferreira, Matheus Bispo]`
 - Data: `[24/09/2026]`
 
 ## Preenchimento
