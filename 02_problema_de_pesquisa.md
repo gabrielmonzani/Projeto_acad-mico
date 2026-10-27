@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 
-| [Alan rosa da Silveira Neto]| [Pesquisa e escrita]| | [Caua Silva Godoy]| [Pesquisa]| | [Gabriel Campos Monzani]| [Pesquisa]| | [Gabriel Gomes Ferreira]| [Pesquisa e escrita]| | [Matheus Bispo]| [Pesquisa]|
+| [Alan rosa da Silveira Neto]| [Pesquisa e escrita]| | [Alan Silva Araújo] [Pesquisa] | [Arthur Gomes de Jesus] [Pesquisa] | [Cauã Silva Godoy]| [Pesquisa]| | [Gabriel Campos Monzani]| [Pesquisa, escrita e contextualização]| | [Gabriel Gomes Ferreira]| [Pesquisa e escrita]| | [Matheus Bispo]| [Pesquisa]|
