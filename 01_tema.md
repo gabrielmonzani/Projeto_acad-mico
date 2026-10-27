@@ -52,4 +52,4 @@ Tema delimitado e justificativa.
 
 ## Contribuições
 
-| Integrante | Atividade realizada | | [Alan rosa da Silveira Neto]| [Pesquisa e escrita]| | [Caua Silva Godoy]| [Pesquisa]| | [Gabriel Campos Monzani]| [Pesquisa]| | [Gabriel Gomes Ferreira]| [Pesquisa  e escrita]| | [Matheus Bispo]| [Pesquisa]|
+| Integrante | Atividade realizada | | [Alan rosa da Silveira Neto]| [pesquisa] [Alan Silva Arújo] [Pesquisa]| | [Arthur Gomes de Jesus] | [Caua Silva Godoy]| [Pesquisa]| | [Gabriel Campos Monzani]| [Pesquisa, escrita e contextualização]| | [Gabriel Gomes Ferreira]| [Pesquisa  e escrita]| | [Matheus Bispo]| [Pesquisa]|
